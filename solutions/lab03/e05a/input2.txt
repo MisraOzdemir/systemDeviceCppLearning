@@ -1,0 +1,8 @@
+s1_n1 s2_n2
+s1_n1 s3_n3
+s1_n1 s4_n4
+s2_n2 s3_n3
+s2_n2 s5_n5
+s4_n4 s5_n5
+s5_n5 s6_n6
+s6_n6 s7_n7

@@ -1,0 +1,27 @@
+quer@quer-VB:~/current-B/teachingClassC/laurea/sdp-lab/lab02$ ./ex02 ex01-out.bin
+> R 2
+2 150000 Fabrizi Aldo 22
+> W 2 
+Data: 2 150000 Fabrizi Aldino 34
+> R 3
+3 200000 Verdi Giacomo 15
+> R 2
+2 150000 Fabrizi Aldino 34
+> R 5
+Record not found.
+> W 5
+Data: 5 3984389 Alfo Fabrizi 30
+> R 5
+5 3984389 Alfo Fabrizi 30
+> R 4
+4 250000 Rossi Luigi 30
+> W 4
+Data: 4 250000 Rossi Luigino 35
+> R 4
+4 250000 Rossi Luigino 35
+> R 5
+5 3984389 Alfo Fabrizi 30
+> E
+quer@quer-VB:~/current-B/teachingClassC/laurea/sdp-lab/lab02$ 
+
+
